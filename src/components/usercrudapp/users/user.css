@@ -1,0 +1,27 @@
+.AddStyle{
+    margin-Top: 60px;
+    margin-bottom: 50px;
+}
+.EditStyle{
+    margin-Top: 60px;
+    margin-bottom: 50px;
+}
+.heading{
+    text-align: center;
+    color:darkblue;
+}
+.tblcolor{
+    background-color: darkblue;
+    color:white;
+}
+.navcolor{
+    background-color: darkblue;
+}
+.navbar-brand {
+    margin-top: -12px;
+    margin-bottom: -12px;
+    margin-left: -80px;
+}
+.nav-link{
+    margin-left: 26px;
+}

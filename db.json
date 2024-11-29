@@ -1,0 +1,106 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Feel Jolly",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Drink Coffee",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Work",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Project",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "Just do it!",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "Reactjs UseEffect",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "Reactjs Implementation",
+      "completed": false
+    },
+    {
+      "title": "Create Application",
+      "id": 10
+    },
+    {
+      "title": "Crud Application",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "riya",
+      "lastname": "kothari",
+      "username": "riya261",
+      "email": "riya261@gmail.com",
+      "password": "ryk261",
+      "confirmPassword": "ryk261",
+      "phone": "9245456123"
+    },
+    {
+      "id": 2,
+      "firstname": "radhika",
+      "lastname": "vora",
+      "username": "radhika158",
+      "email": "radhika158@gmail.com",
+      "password": "rdh158",
+      "confirmPassword": "rdh158",
+      "phone": "9845456123"
+    },
+    {
+      "id": 3,
+      "firstname": "arha",
+      "lastname": "sheth",
+      "username": "arha217",
+      "email": "arha217@gmail.com",
+      "password": "arh217",
+      "confirmPassword": "arh217",
+      "phone": "9565712123"
+    },
+    {
+      "id": 4,
+      "firstname": "kenil",
+      "lastname": "shah",
+      "username": "kenil312",
+      "email": "kenil312@gmail.com",
+      "password": "knl312",
+      "confirmPassword": "knl312",
+      "phone": "9455442132"
+    },
+    {
+      "id": 5,
+      "firstname": "diya",
+      "lastname": "patel",
+      "username": "diya235",
+      "email": "diya235@gmail.com",
+      "password": "dyp235",
+      "confirmPassword": "dyp235",
+      "phone": "9823452674"
+    }
+  ]
+}
